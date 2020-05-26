@@ -14,7 +14,6 @@ Divida X por Y e obtenha o resto R1. Se R1 for zero, o mdc entre X e Y é Y.
 
 3) R2 não for zero, divida R1 por R2 e obtenha o resto R3. Se R3 for zero, o mdc entre X e Y é R2.
 
-...
 
 Se Rn ão for zero, divida Rn−1 por Rn e obtenha o resto Rn+1. Se Rn+1 for zero, o mdc entre X e Y é Rn
 
