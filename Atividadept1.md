@@ -26,4 +26,5 @@ com essa formula ouve um padrão descoberto chamado de proporção auria ou núm
 4 - Descreva o Algoritmo do BubbleSort      
 Bubble Sort é um algoritmo de ordenação, Se o objetivo é ordenar os valores em forma decrescente, então, a posição atual é comparada com a próxima posição e, se a posição atual for maior que a posição posterior, é realizada a troca dos valores nessa posição. Caso contrário, não é realizada a troca, apenas passa-se para o próximo par de comparações.
 
-22 - O que significa dizer que um algoritmo ou uma teoria é o estado da arte em seu contexto?       
+22 - O que significa dizer que um algoritmo ou uma teoria é o estado da arte em seu contexto?    
+um algoritimo ou uma teoria que é estado da arte, significa algo de ultima hora, novo ou uma obra prima.
